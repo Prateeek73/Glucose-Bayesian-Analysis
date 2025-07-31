@@ -1,7 +1,11 @@
 ---
 title: "Glucose Data Bayesian Analysis"
-output: html_document
+author: "Prateek Singh, Xinyun Liu, Manoj Kumar Surabhi, Xiaolin Liu"
 date: "2025-07-30"
+output: 
+  github_document:
+    html_preview: false
+    toc: true
 ---
 
 ## Loading libraries
