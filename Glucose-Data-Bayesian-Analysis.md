@@ -1,6 +1,5 @@
 Glucose Data Bayesian Analysis
 ================
-Prateek Singh, Xinyun Liu, Manoj Kumar Surabhi, Xiaolin Liu
 2025-07-30
 
 - [Loading libraries](#loading-libraries)
