@@ -1,4 +1,4 @@
-# Final Project for MA5770 - Bayesian Statistics
+# Bayesian Mixture Normal Model of Plasma Glucose Data - Bayesian Statistics
 
 **Name:** Prateek Singh, Xinyun Liu, Manoj Kumar Surabhi, Xiaolin Liu  
 **Project Title:** Bayesian Mixture Normal Model of Plasma Glucose Data  
